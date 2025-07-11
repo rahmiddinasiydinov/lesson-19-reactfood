@@ -1,1 +1,202 @@
-[{"items":[{"id":"m3","name":"Caesar Salad","price":"7.99","description":"Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.","image":"images/caesar-salad.jpg","quantity":1}],"customer":{"name":"transistor","email":"rahmiddin1216@gmail.com","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"517.2074622634899"},{"items":[{"id":"m3","name":"Caesar Salad","price":"7.99","description":"Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.","image":"images/caesar-salad.jpg","quantity":1}],"customer":{"name":"ARB","email":"rahmiddinasiydinov@gmail.com","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"346.3920377345029"},{"items":[{"id":"m3","name":"Caesar Salad","price":"7.99","description":"Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.","image":"images/caesar-salad.jpg","quantity":1}],"customer":{"name":"ARB","email":"rahmiddinasiydinov@gmail.com","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"161.85861734526986"},{"items":[{"id":"m2","name":"Margherita Pizza","price":"12.99","description":"A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.","image":"images/margherita-pizza.jpg","quantity":1}],"customer":{"name":"ARB","email":"rahmiddinasiydinov@gmail.com","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"911.1190554642061"},{"items":[{"id":"m3","name":"Caesar Salad","price":"7.99","description":"Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.","image":"images/caesar-salad.jpg","quantity":1}],"customer":{"name":"ARB","email":"rahmiddinasiydinov@gmail.com","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"391.4645483745045"},{"items":[{"id":"m2","name":"Margherita Pizza","price":"12.99","description":"A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.","image":"images/margherita-pizza.jpg","quantity":1}],"customer":{"name":"ARB","email":"rahmiddinasiydinov@gmail.com","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"957.6297365990887"},{"items":[{"id":"m1","name":"Mac & Cheese","price":"8.99","description":"Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.","image":"images/mac-and-cheese.jpg","quantity":1}],"customer":{"name":"Yangi","email":"rahmiddinasiydinov@gmail.com","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"394.62088983721964"},{"items":[{"id":"m3","name":"Caesar Salad","price":"7.99","description":"Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.","image":"images/caesar-salad.jpg","quantity":1}],"customer":{"name":"Super new","email":"vasil.lihadeev@gmail.com","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"571.2523470269208"},{"items":[{"id":"m3","name":"Caesar Salad","price":"7.99","description":"Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.","image":"images/caesar-salad.jpg","quantity":1}],"customer":{"name":"ARB","email":"info@web-xizmat.uz","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"208.93904672490615"},{"items":[{"id":"m3","name":"Caesar Salad","price":"7.99","description":"Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.","image":"images/caesar-salad.jpg","quantity":1}],"customer":{"name":"Sample store","email":"info@web-xizmat.uz","street":"57, Uchtosh, Asaka, Andijan","postal-code":"170200","city":"Asaka"},"id":"102.76290637267005"}]
+[
+    {
+        "items": [
+            {
+                "id": "m3",
+                "name": "Caesar Salad",
+                "price": "7.99",
+                "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+                "image": "images/caesar-salad.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "transistor",
+            "email": "rahmiddin1216@gmail.com",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "517.2074622634899"
+    },
+    {
+        "items": [
+            {
+                "id": "m3",
+                "name": "Caesar Salad",
+                "price": "7.99",
+                "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+                "image": "images/caesar-salad.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "ARB",
+            "email": "rahmiddinasiydinov@gmail.com",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "346.3920377345029"
+    },
+    {
+        "items": [
+            {
+                "id": "m3",
+                "name": "Caesar Salad",
+                "price": "7.99",
+                "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+                "image": "images/caesar-salad.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "ARB",
+            "email": "rahmiddinasiydinov@gmail.com",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "161.85861734526986"
+    },
+    {
+        "items": [
+            {
+                "id": "m2",
+                "name": "Margherita Pizza",
+                "price": "12.99",
+                "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+                "image": "images/margherita-pizza.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "ARB",
+            "email": "rahmiddinasiydinov@gmail.com",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "911.1190554642061"
+    },
+    {
+        "items": [
+            {
+                "id": "m3",
+                "name": "Caesar Salad",
+                "price": "7.99",
+                "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+                "image": "images/caesar-salad.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "ARB",
+            "email": "rahmiddinasiydinov@gmail.com",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "391.4645483745045"
+    },
+    {
+        "items": [
+            {
+                "id": "m2",
+                "name": "Margherita Pizza",
+                "price": "12.99",
+                "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+                "image": "images/margherita-pizza.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "ARB",
+            "email": "rahmiddinasiydinov@gmail.com",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "957.6297365990887"
+    },
+    {
+        "items": [
+            {
+                "id": "m1",
+                "name": "Mac & Cheese",
+                "price": "8.99",
+                "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+                "image": "images/mac-and-cheese.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "Yangi",
+            "email": "rahmiddinasiydinov@gmail.com",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "394.62088983721964"
+    },
+    {
+        "items": [
+            {
+                "id": "m3",
+                "name": "Caesar Salad",
+                "price": "7.99",
+                "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+                "image": "images/caesar-salad.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "Super new",
+            "email": "vasil.lihadeev@gmail.com",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "571.2523470269208"
+    },
+    {
+        "items": [
+            {
+                "id": "m3",
+                "name": "Caesar Salad",
+                "price": "7.99",
+                "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+                "image": "images/caesar-salad.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "ARB",
+            "email": "info@web-xizmat.uz",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "208.93904672490615"
+    },
+    {
+        "items": [
+            {
+                "id": "m3",
+                "name": "Caesar Salad",
+                "price": "7.99",
+                "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+                "image": "images/caesar-salad.jpg",
+                "quantity": 1
+            }
+        ],
+        "customer": {
+            "name": "Sample store",
+            "email": "info@web-xizmat.uz",
+            "street": "57, Uchtosh, Asaka, Andijan",
+            "postal-code": "170200",
+            "city": "Asaka"
+        },
+        "id": "102.76290637267005"
+    }
+]
